@@ -1,6 +1,6 @@
 ### Olá, meu nome é Matheus Grego, seja bem vindo ao meu perfil 👋
 
-- 🔭 Sou estudante do segundo periodo de Análise e desenvolvimento de sistemas na UFPR
+- 🔭 Tenho 20 anos e sou estudante do segundo periodo de Análise e desenvolvimento de sistemas na UFPR
 - 🌱 Atualmente estou aprendendo typescript, javascript e aplicações web
 - 👯 minhas maiores habilidades se concentram em Python e SQL, mas também possuo conhecimento em C# e Java  
 - 🤔 além disso, possuo inglês intermediário e conhecimentos basicos com o pacote office e figma
