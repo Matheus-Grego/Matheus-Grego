@@ -2,9 +2,9 @@
 
 - 🔭 Sou estudante do segundo periodo de Análise e desenvolvimento de sistemas na UFPR
 - 🌱 Atualmente estou aprendendo typescript, javascript e aplicações web
-- 👯 minhas maiores habilidades se concentram em Python e C#, mas também possuo conhecimento em SQL e Java  
+- 👯 minhas maiores habilidades se concentram em Python e SQL, mas também possuo conhecimento em C# e Java  
 - 🤔 além disso, possuo inglês intermediário e conhecimentos basicos com o pacote office e figma
-- 💬 Meu objetivo é crescer como profissional full stack e adquirir experiências para aperfeiçuar minhas habilidades
+- 💬 Meu objetivo é crescer como profissional data scientist e adquirir experiências para aperfeiçuar minhas habilidades
 - 📫 o endereço para meu linkedin é: https://www.linkedin.com/in/matheus-grego-b7b88826a/
 
 vamos trabalhar juntos?
