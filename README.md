@@ -2,7 +2,7 @@
 
 - 🔭 Tenho 20 anos e sou estudante do segundo periodo de Análise e desenvolvimento de sistemas na UFPR
 - 🌱 Atualmente estou aprendendo Vue.js e Angular
-- 👯 minhas maiores habilidades se concentram em Javascript,Typescript e SQL, mas também possuo conhecimento em PHP,python, C#,Java,html e css  
+- 👯 minhas maiores habilidades se concentram em Javascript,Typescript, React Native e SQL, mas também possuo conhecimento em PHP, Python, C#, Java, HTML, CSS e Bootstrap  
 - 🤔 além disso, possuo inglês intermediário e conhecimentos basicos com o pacote office e figma
 - 💬 Meu objetivo é crescer como desenvolvedor web e adquirir experiências para aperfeiçuar minhas habilidades
 - 📫 o endereço para meu linkedin é: https://www.linkedin.com/in/matheus-grego-b7b88826a/
