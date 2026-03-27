@@ -1,10 +1,9 @@
 ### Olá, meu nome é Matheus Grego, seja bem vindo ao meu perfil 👋
 
-- 🌱 Atualmente estou estudando Kotlin em mobile
-- 👯 minhas maiores habilidades se concentram em C#, Javascript e Typescript  
-- 🤔 além disso, possuo inglês intermediário 
-- 💬 Meu objetivo é crescer como desenvolvedor .NET
-- 📫 o endereço para meu linkedin é: https://www.linkedin.com/in/matheus-grego-b7b88826a/
+- Sou desenvolvedor .NET com 3 anos de experiência
+- minhas maiores habilidades se concentram em C#, ASP.NET MVC e Typescript  
+- Possuo Ingles B2
+- Meu linkedin é: https://www.linkedin.com/in/matheus-grego-b7b88826a/
 
 vamos trabalhar juntos?
 
