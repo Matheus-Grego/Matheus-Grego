@@ -1,7 +1,7 @@
 ### Olá, meu nome é Matheus Grego, seja bem vindo ao meu perfil 👋
 
 - Sou desenvolvedor .NET com 3 anos de experiência
-- minhas maiores habilidades se concentram em C#, ASP.NET MVC e Typescript  
+- minhas maiores habilidades se concentram em C#, ASP.NET Core, ASP.NET MVC e Typescript  
 - Possuo Ingles B2
 - Meu linkedin é: https://www.linkedin.com/in/matheus-grego-b7b88826a/
 
@@ -10,6 +10,12 @@ vamos trabalhar juntos?
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+                    
+          
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
