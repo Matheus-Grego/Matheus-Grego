@@ -1,6 +1,6 @@
 ### Olá, meu nome é Matheus Grego, seja bem vindo ao meu perfil 👋
 
-- Sou desenvolvedor .NET com 3 anos de experiência
+- Sou desenvolvedor .NET com mais de 3 anos de experiência
 - minhas maiores habilidades se concentram em C#, ASP.NET Core, ASP.NET MVC e Typescript  
 - Possuo Ingles B2
 - Meu linkedin é: https://www.linkedin.com/in/matheus-grego-b7b88826a/
